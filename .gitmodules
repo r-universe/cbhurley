@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "condvis2"]
+	path = condvis2
+	url = https://github.com/cbhurley/condvis2
+	shallow = true
+	registered = true
+[submodule "PairViz"]
+	path = PairViz
+	url = https://github.com/cbhurley/pairviz
+	shallow = true
+	registered = true

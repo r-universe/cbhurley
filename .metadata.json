@@ -1,0 +1,10 @@
+[
+  {
+    "package": "condvis2",
+    "oncran": true
+  },
+  {
+    "package": "PairViz",
+    "oncran": true
+  }
+]
