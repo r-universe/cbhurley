@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "DendSer",
+    "oncran": true
+  },
+  {
     "package": "PairViz",
     "oncran": true
   }

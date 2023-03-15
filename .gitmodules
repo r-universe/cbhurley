@@ -8,6 +8,11 @@
 	url = https://github.com/cbhurley/condvis2
 	shallow = true
 	registered = true
+[submodule "DendSer"]
+	path = DendSer
+	url = https://github.com/cbhurley/dendser
+	shallow = true
+	registered = true
 [submodule "PairViz"]
 	path = PairViz
 	url = https://github.com/cbhurley/pairviz
