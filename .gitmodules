@@ -13,6 +13,16 @@
 	url = https://github.com/cbhurley/dendser
 	shallow = true
 	registered = true
+[submodule "ERSA"]
+	path = ERSA
+	url = https://github.com/cran/ERSA
+	shallow = true
+	registered = true
+[submodule "gclus"]
+	path = gclus
+	url = https://github.com/cran/gclus
+	shallow = true
+	registered = true
 [submodule "PairViz"]
 	path = PairViz
 	url = https://github.com/cbhurley/pairviz
