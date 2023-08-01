@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "condvis2"]
-	path = condvis2
-	url = https://github.com/cbhurley/condvis2
 [submodule "DendSer"]
 	path = DendSer
 	url = https://github.com/cbhurley/dendser
 [submodule "ERSA"]
 	path = ERSA
 	url = https://github.com/cran/ERSA
-[submodule "gclus"]
-	path = gclus
-	url = https://github.com/cran/gclus
 [submodule "PairViz"]
 	path = PairViz
 	url = https://github.com/cbhurley/pairviz
+[submodule "condvis2"]
+	path = condvis2
+	url = https://github.com/cbhurley/condvis2
+[submodule "gclus"]
+	path = gclus
+	url = https://github.com/cran/gclus
