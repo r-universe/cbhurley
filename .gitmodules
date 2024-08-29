@@ -11,6 +11,9 @@
 [submodule "PairViz"]
 	path = PairViz
 	url = https://github.com/cbhurley/pairviz
+[submodule "bullseye"]
+	path = bullseye
+	url = https://github.com/cbhurley/bullseye
 [submodule "condvis2"]
 	path = condvis2
 	url = https://github.com/cbhurley/condvis2
